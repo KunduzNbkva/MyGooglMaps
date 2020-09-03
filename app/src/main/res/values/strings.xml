@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Google Maps</string>
+    <string name="draw_polygon">Draw polygon</string>
+</resources>
